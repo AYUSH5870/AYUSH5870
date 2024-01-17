@@ -1,7 +1,7 @@
-
+![cyberpunk-pixel-city-neon-2bagugxcfp2to7tx](https://github.com/AYUSH5870/JS-Native/assets/139774611/0526b8f3-058c-413f-bf1b-16e74febcef6)
 <h1 align="center">Hi 👋, I'm AYUSH KUMAR</h1>
 <h3 align="center">Iam a Front-End Developer</h3>
-<img align='right' src='D:\digital bhem\cyberpunk-pixel-city-neon-2bagugxcfp2to7tx.gif'>
+<img align='right' src=''>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush5870&label=Profile%20views&color=0e75b6&style=flat" alt="ayush5870" /> </p>
 
