@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @AYUSH5870
-- 👀 I’m interested in ...WEB DEVELOPMENT & DESIGNING
+- 👋 Hi, I’m Ayush
+- 👀 I’m interested in Front-End Development 
 - 🌱 I’m currently learning ... Full Stack Development
-- 💞️ I’m looking to collaborate on ... Projects using git,react.js,tailwind.css,vue.js and UI&UX Design. 
+- 💞️ I’m looking to collaborate on ... Projects using Git,React.js,Typescript,Angular and also UI&UX Design. 
 - 📫 Reach me on my mail ... gamerudy007@gmail.com
 
 <!---
