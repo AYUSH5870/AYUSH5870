@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush5870&label=Profile%20views&color=0e75b6&style=flat" alt="ayush5870" /> </p>
 
-- 🔭 I’m currently working on **React, MYSQL and some other Front & Back-End Frameworks....**
+- 🔭 I’m currently working on **React, MYSQL and some other Front & Back-End Frameworks...**
 
-- 🌱 I’m currently learning **React Native, Flutter,**
+- 🌱 I’m currently learning **React Native, Flutter...**
 
-- 💬 Ask me about **MEAN oR MERN Stack**
+- 💬 Ask me about **MEAN oR MERN Stack...**
 
 - 📫 How to reach me **gamerudy007@gmail.com**
 
