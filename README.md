@@ -1,12 +1,10 @@
 ![cyberpunk-pixel-city-neon-2bagugxcfp2to7tx](https://github.com/AYUSH5870/JS-Native/assets/139774611/0526b8f3-058c-413f-bf1b-16e74febcef6)
-<h1 align="center">Hi 👋, I'm AYUSH KUMAR</h1>
-<h3 align="center">Iam a Aspiring DevOps Engineer</h3>
+<h1 align="center">Hi there👋, I'm AYUSH</h1>
+<h3 align="center">I'm a Aspiring DevOps Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush5870&label=Profile%20views&color=0e75b6&style=flat" alt="ayush5870" /> </p>
 
 - 🔭 I’m currently working on **Amazon Web Services,Azure,GCP etc...**
-
-- 🌱 I’m currently learning **React Native, Flutter...**
 
 - 💬 Ask me about **System Administartion and DevOps tools such as Teraform,Jenkins,CI/CD,Ansible and Configuration Management etc ...**
 
