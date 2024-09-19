@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Amazon Web Services,Azure,GCP etc...**
 
-- 💬 Ask me about **System Administartion and DevOps tools such as Teraform,Jenkins,CI/CD,Ansible and Configuration Management etc ...**
+- 💬 Ask me about **System Administration and DevOps tools such as Teraform,Jenkins,CI/CD,Ansible and Configuration Management etc ...**
 
 - 📫 Contact me on:-   **gamerudy007@gmail.com**
 
