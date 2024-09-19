@@ -17,12 +17,7 @@
 <a href="https://www.leetcode.com/ayushrockz007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ayushrockz007" height="30" width="40" /></a>
 </p>
 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<h3 align="center">I am a DevOps enthusiast with a passion for automating, optimizing, and configuring deployments in cloud environments to enhance the overall software delivery process. I am proficient in CI/CD pipeline orchestration, containerization using Docker and Kubernetes, managed infrastructure as code (IaC) with Terraform, and configuration management automation with Ansible. I am continuously learning and improving my scripting skills. I have worked with various services of AWS with a focus on security, performance, and cost-efficiency. I am passionate and determined to learn new things and collaborate with the teamh3>
+<h3 align="center">I am a DevOps enthusiast with a passion for automating, optimizing, and configuring deployments in cloud environments to enhance the overall software delivery process. I am proficient in CI/CD pipeline orchestration, containerization using Docker and Kubernetes, managed infrastructure as code (IaC) with Terraform, and configuration management automation with Ansible. I am continuously learning and improving my scripting skills. I have worked with various services of AWS with a focus on security, performance, and cost-efficiency. I am passionate and determined to learn new things and collaborate with the team<h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
